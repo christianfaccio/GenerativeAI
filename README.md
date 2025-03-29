@@ -10,9 +10,15 @@ The following are the resources I have identified for the first weeks of trainin
 - [GitHub Docs - Using Git](https://docs.github.com/en/get-started/using-git)
 - [Microsoft Learn - GitHub Foundations](https://learn.microsoft.com/en-us/training/paths/github-foundations/) *(not compulsory but interesting)*
 
+## Deep Learning 
+- [Deep Learning](https://atcold.github.io/NYU-DLSP21/)
+
 ## PyTorch
 - [How to Read PyTorch Code (Basic)](https://github.com/davidbau/how-to-read-pytorch)
 - [DSSC Deep Learning Labs (Basic)](https://github.com/marcozullich/DSSC_DL_2021/tree/main/labs)
 - [Deep Learning Units Labs (Basic: 01 + 02 + 03)](https://github.com/emaballarin/deeplearning-units/tree/main/labs)
 - [PyTorch Tutorials (Introduction to PyTorch, Learning PyTorch, and Advanced Parallel & Distributed Training)](https://pytorch.org/tutorials/beginner/basics/intro.html)
+
+## NLP with Deep Learning
+[NLP](https://web.stanford.edu/class/cs224n/)
 
