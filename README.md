@@ -20,5 +20,5 @@ The following are the resources I have identified for the first weeks of trainin
 - [PyTorch Tutorials (Introduction to PyTorch, Learning PyTorch, and Advanced Parallel & Distributed Training)](https://pytorch.org/tutorials/beginner/basics/intro.html)
 
 ## NLP with Deep Learning
-[NLP](https://web.stanford.edu/class/cs224n/)
+- [NLP with Deep Learning](https://web.stanford.edu/class/cs224n/)
 
