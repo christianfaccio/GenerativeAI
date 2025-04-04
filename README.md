@@ -19,6 +19,16 @@ The following are the resources I have identified for the first weeks of trainin
 - [Deep Learning Units Labs (Basic: 01 + 02 + 03)](https://github.com/emaballarin/deeplearning-units/tree/main/labs)
 - [PyTorch Tutorials (Introduction to PyTorch, Learning PyTorch, and Advanced Parallel & Distributed Training)](https://pytorch.org/tutorials/beginner/basics/intro.html)
 
-## NLP with Deep Learning
+## NLP
 - [NLP with Deep Learning](https://web.stanford.edu/class/cs224n/)
+- [HF - entry level](https://huggingface.co/learn/nlp-course/chapter1/1)
+- [HF - RAG and SQL](https://huggingface.co/learn/cookbook/index)
+
+## LLM Practicaal Intro
+- [GenAI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
+- [How transformer LLMs work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
+- [How to effectively reduce model size](https://www.deeplearning.ai/short-courses/quantization-in-depth/)
+
+
+
 
