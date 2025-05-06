@@ -29,6 +29,9 @@ The following are the resources I have identified for the first weeks of trainin
 - [How transformer LLMs work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 - [How to effectively reduce model size](https://www.deeplearning.ai/short-courses/quantization-in-depth/)
 
+## Papers
+[Aman's AI Journal](https://aman.ai/primers/ai/top-30-papers/)
+
 
 
 
