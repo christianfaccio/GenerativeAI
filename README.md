@@ -48,6 +48,9 @@ The following are the resources I have identified for the first weeks of trainin
 - [LangGraph](https://langchain-ai.github.io/langgraph/)
 - [Agentic RAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/)
 
+## Papers
+[Aman's AI Journal](https://aman.ai/primers/ai/top-30-papers/)
+
 
 
 
