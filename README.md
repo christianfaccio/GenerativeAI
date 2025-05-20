@@ -29,6 +29,25 @@ The following are the resources I have identified for the first weeks of trainin
 - [How transformer LLMs work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 - [How to effectively reduce model size](https://www.deeplearning.ai/short-courses/quantization-in-depth/)
 
+## LangChain
+
+- [LangChain - Chat with your data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+- [LangChain for LLM application development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [Hands on LLM book](./Hands-On%20Large_Language%20Models.pdf)
+
+## Agent-based LLM
+
+- [General concepts](https://huggingface.co/learn/agents-course/unit0/introduction )
+- [Intro to LangGraph](https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58238107-course-overview)
+
+## Reading
+
+- [RAG Survey](https://arxiv.org/pdf/2312.10997)
+- [Agents by Google](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view)
+- [Anthropic - Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
+- [LangGraph](https://langchain-ai.github.io/langgraph/)
+- [Agentic RAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/)
+
 
 
 
